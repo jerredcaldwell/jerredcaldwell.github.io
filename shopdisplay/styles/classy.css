@@ -10,7 +10,7 @@
   font-family: Roboto;
 }
 #listholder{
-  width:33%;
+  width:23%;
   background-color: ;
 }
 #centeredheader {
@@ -19,8 +19,8 @@
   width: 8em;
 }
 #listdiv{
-  background-color: #D3FFCC;
-  border-left: 4px solid green;
+  background-color: #E3E9FF;
+  border-left: 4px solid #668CD9;
   padding-bottom: 4px;
 }
 #centeredlogo {
@@ -30,17 +30,20 @@
 }
 h1 {
   text-shadow: 2px 2px 1px #AFAFAF;
+  font-size: 25px;
 }
 h2 {
   color: black;
   margin-left: 50px;
+  font-size: 17px;
 }
 li {
   font-weight: bold;
+  font-size: 15px;
 }
 #imageandcalendarcontainer {
   height: 100%;
-  width: 65%;
+  width: 75%;
   position:absolute;
   top: 0px;
   right: 0px;
