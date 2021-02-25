@@ -14,11 +14,14 @@
   background-color: ;
 }
 #listdiv{
+                /* Light Blue */
   background-color: #E3E9FF;
+                      /* Dark Blue */
   border-left: 4px solid #668CD9;
   padding-bottom: 4px;
 }
 h1 {
+                          /* Gray */
   text-shadow: 2px 2px 1px #AFAFAF;
   font-size: 40px;
   text-align: center;
@@ -44,11 +47,11 @@ li {
   margin-left: auto;
 }
 #calendar {
-  transform: scale(2, 2);
   width: 50%;
+  left: calc(25% - 10px);
+  transform: scale(2, 2);
   height: 50%;
   position: relative;
-  left: 25%;
   top: 25%;
   bottom: 50%;
   border: 0;
