@@ -3,8 +3,8 @@
 /* Some random stuff designed by dean gadberry */
 
 @font-face {
-  font-family: 'Roboto';
-  src: url("./fonts/RobotoSlabMedium-vmAEA.ttf");
+  font-family: Roboto;
+  src: url("../fonts/RobotoSlabMedium-vmAEA.ttf");
 }
 * {
   font-family: Roboto;
