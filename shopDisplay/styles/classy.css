@@ -1,0 +1,58 @@
+@charset "utf-8";
+/*=============== classy.css ===============*/
+/* Some random stuff designed by dean gadberry */
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("./fonts/RobotoSlabMedium-vmAEA.ttf");
+}
+* {
+  font-family: Roboto;
+}
+#listholder{
+  width:33%;
+  background-color: ;
+}
+#centeredheader {
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em;
+}
+#listdiv{
+  background-color: #D3FFCC;
+  border-left: 4px solid green;
+  padding-bottom: 4px;
+}
+#centeredlogo {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+h1 {
+  text-shadow: 2px 2px 1px #AFAFAF;
+}
+h2 {
+  color: black;
+  margin-left: 50px;
+}
+li {
+  font-weight: bold;
+}
+#imageandcalendarcontainer {
+  height: 100%;
+  width: 65%;
+  position:absolute;
+  top: 0px;
+  right: 0px;
+}
+#calendar {
+  border: 0;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-top: 10px;
+  position: absolute;
+  top: 100px;
+  right: 0;
+  height: 80%;
+  width: 100%;
+}
