@@ -47,12 +47,12 @@ li {
   margin-left: auto;
 }
 #calendar {
-  width: 50%;
-  left: calc(25% - 10px);
-  transform: scale(2, 2);
-  height: 50%;
+  width: 58%;
+  left: calc(21% - 9px);
+  transform: scale(1.72, 1.72);
+  height: 58%;
   position: relative;
-  top: 25%;
+  top: 20%;
   bottom: 50%;
   border: 0;
   cursor: pointer;
