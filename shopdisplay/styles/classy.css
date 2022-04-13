@@ -35,9 +35,11 @@ li {
   font-size: 28px;
 }
 #imageandcalendarcontainer {
+  display: flex;
+  flex-direction: column;
   height: 87%;
   width: 75%;
-  position:absolute;
+  position: absolute;
   top: 0px;
   right: 0px;
 }
