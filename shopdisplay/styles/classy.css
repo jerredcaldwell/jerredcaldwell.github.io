@@ -1,40 +1,5 @@
-@charset "utf-8";
-/*=============== classy.css ===============*/
-/* Some random stuff designed by dean gadberry */
-/*
-@font-face {
-  font-family: Roboto;
-  src: url("../fonts/RobotoSlabMedium-vmAEA.ttf");
-}
-* {
-  font-family: Roboto;
-}
-#manudiv{
-  width:23%;
-  background-color: ;
-}
-#listdiv{
 
-  background-color: #E3E9FF;
-
-  border-left: 4px solid #668CD9;
-  padding-bottom: 4px;
-}
-h1 {
-
-  text-shadow: 2px 2px 1px #AFAFAF;
-  font-size: 40px;
-  text-align: center;
-}
-h2 {
-  text-align: center;
-  font-size: 34px;
-}
-li {
-  font-weight: bold;
-  font-size: 28px;
-} */
-#imageandcalendarcontainer {
+div {
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -43,25 +8,3 @@ li {
   top: 0px;
   right: 0px;
 }
-/* body {
-  height: 100%;
-  width: 100%;
-}
-#centeredlogo {
-  display: block;
-  margin-right: auto;
-  margin-left: 1em;
-}
-#calendar {
-  width: 58%;
-  left: calc(21% - 7px);
-  transform: scale(1.72);
-  height: 58%;
-  position: center;
-  top: 20%;
-  bottom: 50%;
-  border: 0;
-  cursor: pointer;
-  margin-right: 10px;
-  margin-top: 10px;
-} */
